@@ -1,0 +1,80 @@
+.tablestyle th, tr, td{
+  border: 1px solid black;
+  font-family: Trebuchet MS
+}
+
+.tablestyle th {
+  background-color: #0174DF;
+  color:  white;
+  
+}
+
+h1 {
+  background-color: powderblue;
+  font-family: Trebuchet MS;
+}
+
+.htmlstyle{
+  background-color: #F5A9A9;
+}
+
+.titlestyle2{
+  background-color: #F5BCA9;
+}
+
+.headingstyle{
+  background-color: #F5D0A9;
+}
+
+.bodystyle{
+  background-color: #F2F5A9;
+}
+
+.pstyle{
+  background-color: #D0F5A9;
+}
+
+.breakstyle{
+  background-color: #A9F5A9;
+}
+
+.linesstyle{
+  background-color: #A9F5D0;
+}
+
+.headerstyle{
+  background-color: #A9F5E1;
+}
+
+.commentstyle{
+  background-color: #A9F5F2;
+}
+
+.linksstyle{
+  background-color: #A9E2F3;
+}
+
+.imagestyle{
+  background-color: #A9D0F5;
+}
+
+.liststyle{
+  background-color: #A9BCF5;
+}
+
+.tabblestyle{
+  background-color: #BCA9F5;
+}
+
+.blockstyle{
+  background-color: #A9A9F5;
+}
+
+h2 {
+  text-align: center;
+  font-family: Trebuchet MS;
+}
+
+p{
+  font-family: Trebuchet MS;
+}
